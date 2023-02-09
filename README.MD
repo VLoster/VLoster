@@ -1,4 +1,4 @@
-### Hello World! I'm Wellyngton Ramires 👋🇧🇷
+### Hello World! I'm Wellyngton Ramires 👋
 
 
 # 💫 About Me:
@@ -6,8 +6,8 @@
 
 
 ## 🌐 Socials
-[![Instagram](https://www.instagram.com/wellyngtonrmrz/)
-[![LinkedIn](www.linkedin.com/in/wellyngton-ramires-07b156208)
+[![Instagram] (https://www.instagram.com/wellyngtonrmrz/)
+[![LinkedIn] (www.linkedin.com/in/wellyngton-ramires-07b156208)
 
 
 # 💻 Tech Stack:
