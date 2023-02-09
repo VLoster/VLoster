@@ -1,14 +1,14 @@
-### Olá Mundo! Yo soy Igor Bernardo Vieira 👋
+### Hello World! I'm Wellyngton Ramires 👋🇧🇷
 
 
 # 💫 About Me:
-🔭 I’m currently working with ITMIL with AdvPL<br>👯 I’m looking to collaborate in any fast project<br>🤝 I’m looking for help with Learning Python n programming in general<br>🌱 I’m currently learning Python and AdvPL(Totvs)<br>💬 Ask me about Project, Prototype, Tools <br>⚡ Fun fact: I'm a dancer and i do audiovisual jobs
+🔭 I’m currently working with Front-end 👾 <br> Programming student at FATEC RP college 📚 <br> INTJ 🧠 <br>Front-end 👾<br> 3D Artist <br> 🎨🖌️🦠Global biodiversity enthusiast 🌎
 
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](/https://www.instagram.com/noc.017/) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igor-bernardo-vieira/) 
-[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://www.tiktok.com/@017.noc)
+## 🌐 Socials
+[![Instagram](https://www.instagram.com/wellyngtonrmrz/)
+[![LinkedIn](www.linkedin.com/in/wellyngton-ramires-07b156208)
+
 
 # 💻 Tech Stack:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) 
