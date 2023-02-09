@@ -2,12 +2,12 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working with Front-end 👾 <br> Programming student at FATEC RP college 📚 <br> INTJ 🧠 <br>Front-end 👾<br> 3D Artist <br> 🎨🖌️🦠Global biodiversity enthusiast 🌎
+ I’m currently working with Front-end 👾 <br> Programming student at FATEC RP college 📚 <br> INTJ 🧠 <br>Front-end 👾<br> 3D Artist  🎨🖌️ <br> Global biodiversity enthusiast 🌎🦠
 
 
 ## 🌐 Socials
-[![Instagram] (https://www.instagram.com/wellyngtonrmrz/)
-[![LinkedIn] (www.linkedin.com/in/wellyngton-ramires-07b156208)
+![Instagram] (https://www.instagram.com/wellyngtonrmrz/)
+![LinkedIn] (www.linkedin.com/in/wellyngton-ramires-07b156208)
 
 
 # 💻 Tech Stack:
@@ -28,11 +28,11 @@
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat&logo=Trello&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=IgorBVieira&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=true) ![](https://github-readme-streak-stats.herokuapp.com/?user=IgorBVieira&theme=vision-friendly-dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=IgorBVieira&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=VLoster&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=true) ![](https://github-readme-streak-stats.herokuapp.com/?user=VLoster&theme=vision-friendly-dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=VLoster=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 # Commits
-![Snake animation](https://github.com/IgorBVieira/IgorBVieira/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/VLoster/VLoster/blob/output/github-contribution-grid-snake.svg)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
