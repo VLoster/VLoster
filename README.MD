@@ -24,20 +24,3 @@ I’m currently working with Front-end 👾<br>Programming student at FATEC RP c
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-# Commits
-![Snake animation](https://github.com/IgorBVieira/IgorBVieira/blob/output/github-contribution-grid-snake.svg)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
